@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DarrenTheConfused
+- 👋 Hi, I’m Darren Roberson
 - 👀 I’m interested in all things computer science related
 - 🌱 I’m currently learning full stack web development
 - 💞️ I’m looking to collaborate on any project
